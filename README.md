@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import arrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-function@deno/mod.js';
+import arrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-function@v0.2.3-deno/mod.js';
 ```
 
 <a name="arrayfcn"></a>
@@ -90,7 +90,7 @@ bool = f( arr2 );
 
 ```javascript
 import isEven from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-even@deno/mod.js';
-import arrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-function@deno/mod.js';
+import arrayfcn from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-tools-array-function@v0.2.3-deno/mod.js';
 
 var arr1;
 var arr2;
